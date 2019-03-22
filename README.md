@@ -47,19 +47,20 @@
   
  ## 03 - Labirinto
  - O que eu fiz:
-  - **
+  - Fiz toda a atividade.
   
 - Como/Com quem eu fiz:
-  - **
+  - Fiz atráves do código passado em sala com a ajuda dos minitores e com a ajuda do João Victor para implementar a lógica de fazer o caminho do Lab.
 
 - O que aprendi e sei fazer:
-  - **
+  - Aprendi a usar o "define". Eu entendo tudo que o código faz, porém, se apagar e pedir pra eu refazer de novo vou gastar no mínimo 1 hora tentando fazer.
   
 - O que ainda tenho dificuldade:
-  - **
+  - Recurssão! Falta prática para aplicar. Eu sempre travo e acabo precisando de ajuda pra implementar minhas funções recurssivas.
   
 - Quanto tempo levei para fazer a atividade:
-  - **
+  - 9 horas!
+  
 ## 04 Fractais
   ### 4.1. Árvore
       - O que eu fiz:
