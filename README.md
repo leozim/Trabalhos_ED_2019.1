@@ -47,7 +47,7 @@
   
  ## 03 - Labirinto
  - O que eu fiz:
-  - Fiz toda a atividade.
+    - Fiz toda a atividade.
   
 - Como/Com quem eu fiz:
   - Fiz atráves do código passado em sala com a ajuda dos minitores e com a ajuda do João Victor para implementar a lógica de fazer o caminho do Lab.
