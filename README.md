@@ -64,19 +64,19 @@
 ## 04 Fractais
   ### 4.1. Árvore
       - O que eu fiz:
-      - **
+      - Toda a atividade.
 
     - Como/Com quem eu fiz:
-      - **
+      - Sozinho tenho como base o código do professor.
 
     - O que aprendi e sei fazer:
-      - **
+      - Conceito de Fractal, usar os comandos básicos do xpaint.h.
 
     - O que ainda tenho dificuldade:
-      - **
+      - Nessa atividade não encontrei nenhuma dificuldade.
 
     - Quanto tempo levei para fazer a atividade:
-      - **
+      - 1 hora
       
    ### 4.2. Fractal 2
         - O que eu fiz:
